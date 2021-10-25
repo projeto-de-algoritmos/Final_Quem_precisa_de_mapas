@@ -47,10 +47,10 @@ python Warshall.py
 
 O link da apresentação pode ser encontrado no seguinte link:
 
-<>
+<https://www.youtube.com/watch?v=PRtHTf880BU>
 
 e também na pasta raiz com o nome:
 
 ```
-./
+./Apresentacao.mp4
 ```
