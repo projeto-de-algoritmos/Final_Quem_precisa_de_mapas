@@ -1,45 +1,56 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# Quem precisa de mapas
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Final<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+
+| Matrícula  | Aluno                            |
+| ---------- | -------------------------------- |
+| 18/0054082 | Marcelo Victor de Sousa Silva    |
+| 18/0029223 | Washington Bispo Arishita Junior |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+Esse projeto utiliza do algoritimo floyd-warshall para descrever o caminho mais próximo de um ponto a outro nos mapas do valorant, te auxiliando a jogar melhor.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+<img src="./img/img1.png">
+<img src="./img/img2.png">
+<img src="./img/img3.png">
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para utilizar o projeto siga os seguintes passos:
 
+1 - certifique-se de ter já instalado o python em seu sistema
 
+2 - instale o pip
 
+3 - e instale as dependências mostradas logo abaixo
 
+```
+pip install matplotlib
+pip install numpy
+```
+4 - por fim rode o projeto
+
+```
+python Warshall.py
+```
+
+## Apresentação
+
+O link da apresentação pode ser encontrado no seguinte link:
+
+<>
+
+e também na pasta raiz com o nome:
+
+```
+./
+```
